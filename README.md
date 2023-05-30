@@ -22,5 +22,5 @@ Another important aspect analyzed was the relationship between team, position, a
 #### 5.Age and Salary Correlation:
 A correlation analysis was conducted to examine the relationship between age and salary. This analysis helps determine whether there is any correlation or pattern between these two variables. To enhance understanding, the correlation was represented visually.
 
-#### Conclusion
+### Conclusion
 This project involved the analysis of an employee dataset from the ABC company. By performing preprocessing and various analyses, valuable insights were obtained regarding team distribution, position segregation, age group distribution, high-spending teams and positions, and the correlation between age and salary. These findings can aid in making informed decisions regarding team composition, resource allocation, and understanding the characteristics of the employees within the company.
