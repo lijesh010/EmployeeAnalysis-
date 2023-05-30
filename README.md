@@ -6,19 +6,19 @@ This project analyzes a dataset of employees working in the ABC company. The dat
 Before analyzing the dataset, some preprocessing steps were performed. One of the columns, "height," contained incorrect data. To address this issue, the data in the height column was replaced with random numbers between 150 and 180, representing the height of the employees.
 
 ## Analysis and Findings
-# Team Distribution:
+## 1.Team Distribution:
 The first step was to determine the number of employees in each team and the percentage split with respect to the total number of employees. This analysis provides insights into the team composition within the company.
 
-## Employee Position Segregation:
+## 2.Employee Position Segregation:
 The dataset was further analyzed to segregate employees based on their positions within the company. This analysis helps identify the distribution and frequency of different roles.
 
-## Age Group Distribution:
+## 3.Age Group Distribution:
 To understand the age demographics of the employees, an analysis was performed to determine the age group to which most of the employees belong. This insight provides an understanding of the age distribution within the company.
 
-## High-Spending Teams and Positions:
+## 4.High-Spending Teams and Positions:
 Another important aspect analyzed was the relationship between team, position, and salary spending. By identifying the teams and positions where the salary spending is high, the company can gain insights into areas where financial resources are allocated more significantly.
 
-## Age and Salary Correlation:
+## 5.Age and Salary Correlation:
 A correlation analysis was conducted to examine the relationship between age and salary. This analysis helps determine whether there is any correlation or pattern between these two variables. To enhance understanding, the correlation was represented visually.
 
 ## Conclusion
