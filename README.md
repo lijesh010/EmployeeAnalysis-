@@ -6,7 +6,7 @@ This project analyzes a dataset of employees working in the ABC company. The dat
 Before analyzing the dataset, some preprocessing steps were performed. One of the columns, "height," contained incorrect data. To address this issue, the data in the height column was replaced with random numbers between 150 and 180, representing the height of the employees.
 
 ## Analysis and Findings
-Team Distribution:
+# Team Distribution:
 The first step was to determine the number of employees in each team and the percentage split with respect to the total number of employees. This analysis provides insights into the team composition within the company.
 
 ## Employee Position Segregation:
