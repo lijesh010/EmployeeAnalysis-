@@ -1,4 +1,5 @@
-# MyProjects
+# Entri Elevate Python Module End Project.
+## Dataset:myexcel.csv
 ## Employee Dataset Analysis
 This project analyzes a dataset of employees working in the ABC company. The dataset consists of 458 rows and 9 columns. The objective is to provide a detailed report and explanation of the employees in each team, as well as answer several specific questions about the dataset.
 
